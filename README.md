@@ -9,7 +9,7 @@ As far as i know, Discord user **aki1024** came up with it first.
 If you run [Main.kt](src/main/kotlin/de/lostmekka/discord/minesweepergen/Main.kt), 
 it will generate a random Minesweeper map and tries to solve it to validate that it can be solved at all.
 
-Note that "solvable" in this context means that you do mot have to guess once.
+Note that "solvable" in this context means that you do not have to guess once.
 Also, the solver isn't perfect and can sometimes erroneously label a grid as unsolvable,
 Especially when it comes to the endgame, where you can count how many bombs are still uncovered.
 
