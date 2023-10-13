@@ -2,6 +2,7 @@
 
 This is a fun side project that generates strings that can be pasted into discord to let others play minesweeper.
 
+### Disclaimer
 I did not come up with the idea.
 As far as i know, Discord user **aki1024** came up with it first.
 
